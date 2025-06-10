@@ -1,0 +1,42 @@
+const mongoose = require('mongoose')
+const OTPSchema = new mongoose.Schema({
+    Data:{
+    Condition:[{
+        type:String
+    }],
+    Condition2:[{
+        type:String
+    }],
+    Medication:[{
+        type:String
+    }],
+    Medication2:[{
+        type:String
+    }],
+    AverageRen:[{
+        type:Number
+    }],
+    AverageRen2:[{
+        type:Number
+    }],
+    MedCount:[{
+        type:Number
+    }],
+    CondCount:[{
+        type:Number
+    }],
+    MedCount2:[{
+        type:Number
+    }],
+    CondCount2:[{
+        type:Number
+    }],
+    age:[{
+        type:Number
+    }]},
+    Chart:{
+        type:String,
+        enum:['1','2','3','4']
+    }
+})
+module.exports = mongoose.model('OTP', OTPSchema);

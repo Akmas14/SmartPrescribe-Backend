@@ -1,0 +1,3075 @@
+[
+    {
+        "demographics": {
+            "age": 78,
+            "gender": "male"
+        },
+        "_id": "6752127b277af6c70a730460",
+        "patient_id": "b252556b-4506-4c9e-9e07-3203e39cb520",
+        "renal_function": 76,
+        "conditions": [
+            {
+                "condition_name": "Urinary Incontinence (all types) in women",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730461"
+            },
+            {
+                "condition_name": "Delirium",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730462"
+            },
+            {
+                "condition_name": "Syncope",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730463"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Desipramine",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730464"
+            },
+            {
+                "medication_name": "Mineral oil, given orally",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730465"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Cough",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730466"
+            },
+            {
+                "name": "Nausea",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730467"
+            },
+            {
+                "name": "Fever",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730468"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.927Z",
+        "updatedAt": "2024-12-05T20:52:11.927Z"
+    },
+    {
+        "demographics": {
+            "age": 75,
+            "gender": "male"
+        },
+        "_id": "6752127b277af6c70a730469",
+        "patient_id": "52e75799-7f1a-433b-95fd-17ea0148aadd",
+        "renal_function": 59.33,
+        "conditions": [
+            {
+                "condition_name": "Diabetes with osteoporosis",
+                "severity": 2,
+                "_id": "6752127b277af6c70a73046a"
+            },
+            {
+                "condition_name": "Syncope",
+                "severity": 1,
+                "_id": "6752127b277af6c70a73046b"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Prochlorperazine",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a73046c"
+            },
+            {
+                "medication_name": "Tolmetin",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a73046d"
+            },
+            {
+                "medication_name": "Nortriptyline",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a73046e"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Fever",
+                "severity": 2,
+                "_id": "6752127b277af6c70a73046f"
+            },
+            {
+                "name": "Dizziness",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730470"
+            },
+            {
+                "name": "Fatigue",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730471"
+            },
+            {
+                "name": "Vomiting",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730472"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.928Z",
+        "updatedAt": "2024-12-05T20:52:11.928Z"
+    },
+    {
+        "demographics": {
+            "age": 67,
+            "gender": "female"
+        },
+        "_id": "6752127b277af6c70a730473",
+        "patient_id": "540ea5ef-c3e4-459a-8747-1e2c2c204257",
+        "renal_function": 56.68,
+        "conditions": [
+            {
+                "condition_name": "Delirium",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730474"
+            },
+            {
+                "condition_name": "Parkinson Disease",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730475"
+            },
+            {
+                "condition_name": "Chronic Kidney Disease Stage IV or higher",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730476"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Fondaparinux",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730477"
+            },
+            {
+                "medication_name": "Lumateperone",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730478"
+            },
+            {
+                "medication_name": "Dronedarone",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730479"
+            },
+            {
+                "medication_name": "Imipramine",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a73047a"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Cough",
+                "severity": 2,
+                "_id": "6752127b277af6c70a73047b"
+            },
+            {
+                "name": "Chest pain",
+                "severity": 2,
+                "_id": "6752127b277af6c70a73047c"
+            },
+            {
+                "name": "Nausea",
+                "severity": 0,
+                "_id": "6752127b277af6c70a73047d"
+            },
+            {
+                "name": "Confusion",
+                "severity": 1,
+                "_id": "6752127b277af6c70a73047e"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.928Z",
+        "updatedAt": "2024-12-05T20:52:11.928Z"
+    },
+    {
+        "demographics": {
+            "age": 98,
+            "gender": "female"
+        },
+        "_id": "6752127b277af6c70a73047f",
+        "patient_id": "d3edfb34-c3ec-41fe-9942-030a5467346e",
+        "renal_function": 87.43,
+        "conditions": [
+            {
+                "condition_name": "Chronic constipation",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730480"
+            },
+            {
+                "condition_name": "Syncope",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730481"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Dipyridamole, oral short acting",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730482"
+            },
+            {
+                "medication_name": "Ertugliflozin",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730483"
+            },
+            {
+                "medication_name": "Nortriptyline",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730484"
+            },
+            {
+                "medication_name": "Mefenamic acid",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730485"
+            },
+            {
+                "medication_name": "Desiccated thyroid",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730486"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Fatigue",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730487"
+            },
+            {
+                "name": "Memory loss",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730488"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.928Z",
+        "updatedAt": "2024-12-05T20:52:11.928Z"
+    },
+    {
+        "demographics": {
+            "age": 89,
+            "gender": "female"
+        },
+        "_id": "6752127b277af6c70a730489",
+        "patient_id": "62277a33-19d6-43c6-bd6f-33abba87461b",
+        "renal_function": 51,
+        "conditions": [
+            {
+                "condition_name": "Lower Urinary Tract Symptoms, Benign Prostatic Hyperplasia (BPH)",
+                "severity": 1,
+                "_id": "6752127b277af6c70a73048a"
+            },
+            {
+                "condition_name": "Syncope",
+                "severity": 0,
+                "_id": "6752127b277af6c70a73048b"
+            },
+            {
+                "condition_name": "Chronic constipation",
+                "severity": 1,
+                "_id": "6752127b277af6c70a73048c"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Prazosin",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a73048d"
+            },
+            {
+                "medication_name": "Atropine (excludes ophthalmic)",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a73048e"
+            },
+            {
+                "medication_name": "Mephobarbital",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a73048f"
+            },
+            {
+                "medication_name": "Indomethacin",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730490"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Confusion",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730491"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.928Z",
+        "updatedAt": "2024-12-05T20:52:11.928Z"
+    },
+    {
+        "demographics": {
+            "age": 79,
+            "gender": "female"
+        },
+        "_id": "6752127b277af6c70a730492",
+        "patient_id": "ab016730-2f10-4fbe-80aa-ab0d6e6cb05c",
+        "renal_function": 68.53,
+        "conditions": [
+            {
+                "condition_name": "Urinary Incontinence (all types) in women",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730493"
+            },
+            {
+                "condition_name": "Delirium",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730494"
+            },
+            {
+                "condition_name": "Chronic Kidney Disease Stage IV or higher",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730495"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Darifenacin",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730496"
+            },
+            {
+                "medication_name": "Venlafaxine",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730497"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Shortness of breath",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730498"
+            },
+            {
+                "name": "Vomiting",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730499"
+            },
+            {
+                "name": "Swelling",
+                "severity": 2,
+                "_id": "6752127b277af6c70a73049a"
+            },
+            {
+                "name": "Confusion",
+                "severity": 1,
+                "_id": "6752127b277af6c70a73049b"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.928Z",
+        "updatedAt": "2024-12-05T20:52:11.928Z"
+    },
+    {
+        "demographics": {
+            "age": 84,
+            "gender": "male"
+        },
+        "_id": "6752127b277af6c70a73049c",
+        "patient_id": "8f7ce25f-2eff-4e27-b942-242f7e204c5d",
+        "renal_function": 43.41,
+        "conditions": [
+            {
+                "condition_name": "Parkinson Disease",
+                "severity": 1,
+                "_id": "6752127b277af6c70a73049d"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Olanzapine",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a73049e"
+            },
+            {
+                "medication_name": "Apixaban",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a73049f"
+            },
+            {
+                "medication_name": "Cilostazol",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7304a0"
+            },
+            {
+                "medication_name": "Omeprazole",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7304a1"
+            },
+            {
+                "medication_name": "Glimepiride",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7304a2"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Fever",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7304a3"
+            },
+            {
+                "name": "Shortness of breath",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7304a4"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.928Z",
+        "updatedAt": "2024-12-05T20:52:11.928Z"
+    },
+    {
+        "demographics": {
+            "age": 79,
+            "gender": "male"
+        },
+        "_id": "6752127b277af6c70a7304a5",
+        "patient_id": "385df04e-2da0-47c0-988e-7fc3d79a20a3",
+        "renal_function": 43.04,
+        "conditions": [
+            {
+                "condition_name": "Syncope",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7304a6"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Terazosin",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7304a7"
+            },
+            {
+                "medication_name": "Methscopolamine",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7304a8"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Swelling",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7304a9"
+            },
+            {
+                "name": "Confusion",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7304aa"
+            },
+            {
+                "name": "Vomiting",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7304ab"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.928Z",
+        "updatedAt": "2024-12-05T20:52:11.928Z"
+    },
+    {
+        "demographics": {
+            "age": 98,
+            "gender": "male"
+        },
+        "_id": "6752127b277af6c70a7304ac",
+        "patient_id": "8e138e90-c8c9-4c15-845e-156fb48bfe16",
+        "renal_function": 36.37,
+        "conditions": [
+            {
+                "condition_name": "Lower Urinary Tract Symptoms, Benign Prostatic Hyperplasia (BPH)",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7304ad"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Butalbital",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7304ae"
+            },
+            {
+                "medication_name": "Isoxsuprine",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7304af"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Swelling",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7304b0"
+            },
+            {
+                "name": "Headache",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7304b1"
+            },
+            {
+                "name": "Memory loss",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7304b2"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.928Z",
+        "updatedAt": "2024-12-05T20:52:11.928Z"
+    },
+    {
+        "demographics": {
+            "age": 91,
+            "gender": "male"
+        },
+        "_id": "6752127b277af6c70a7304b3",
+        "patient_id": "4327b3d5-69e0-467e-a76d-f2aefa4f5eee",
+        "renal_function": 51.49,
+        "conditions": [
+            {
+                "condition_name": "Chronic Kidney Disease Stage IV or higher",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7304b4"
+            },
+            {
+                "condition_name": "Parkinson Disease",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7304b5"
+            },
+            {
+                "condition_name": "Lower Urinary Tract Symptoms, Benign Prostatic Hyperplasia (BPH)",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7304b6"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Citalopram",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7304b7"
+            },
+            {
+                "medication_name": "Loxapine",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7304b8"
+            },
+            {
+                "medication_name": "Other TCAs",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7304b9"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Vomiting",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7304ba"
+            },
+            {
+                "name": "Nausea",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7304bb"
+            },
+            {
+                "name": "Swelling",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7304bc"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.928Z",
+        "updatedAt": "2024-12-05T20:52:11.928Z"
+    },
+    {
+        "demographics": {
+            "age": 74,
+            "gender": "female"
+        },
+        "_id": "6752127b277af6c70a7304bd",
+        "patient_id": "d1770f53-3457-4c5a-8d0c-e36ac8298f11",
+        "renal_function": 37.3,
+        "conditions": [
+            {
+                "condition_name": "Syncope",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7304be"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Zolpidem",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7304bf"
+            },
+            {
+                "medication_name": "Eszopiclone",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7304c0"
+            },
+            {
+                "medication_name": "Cyclobenzaprine",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7304c1"
+            },
+            {
+                "medication_name": "Tolterodine",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7304c2"
+            },
+            {
+                "medication_name": "Diltiazem",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7304c3"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Swelling",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7304c4"
+            },
+            {
+                "name": "Headache",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7304c5"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.929Z",
+        "updatedAt": "2024-12-05T20:52:11.929Z"
+    },
+    {
+        "demographics": {
+            "age": 93,
+            "gender": "male"
+        },
+        "_id": "6752127b277af6c70a7304c6",
+        "patient_id": "67632290-4fae-4442-b5ba-6c115c1edf28",
+        "renal_function": 18.27,
+        "conditions": [
+            {
+                "condition_name": "Diabetes with osteoporosis",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7304c7"
+            },
+            {
+                "condition_name": "Dementia or Cognitive Impairment",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7304c8"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Citalopram",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7304c9"
+            },
+            {
+                "medication_name": "Clidinium-chlordiazepoxide",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7304ca"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Confusion",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7304cb"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.929Z",
+        "updatedAt": "2024-12-05T20:52:11.929Z"
+    },
+    {
+        "demographics": {
+            "age": 80,
+            "gender": "male"
+        },
+        "_id": "6752127b277af6c70a7304cc",
+        "patient_id": "fb1d7cd8-2b57-47df-bffb-a9d88a0b146a",
+        "renal_function": 22.31,
+        "conditions": [
+            {
+                "condition_name": "Heart Failure",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7304cd"
+            },
+            {
+                "condition_name": "Diabetes with osteoporosis",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7304ce"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Benztropine (oral)",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7304cf"
+            },
+            {
+                "medication_name": "Levetiracetam",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7304d0"
+            },
+            {
+                "medication_name": "Meclizine",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7304d1"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Swelling",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7304d2"
+            },
+            {
+                "name": "Nausea",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7304d3"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.929Z",
+        "updatedAt": "2024-12-05T20:52:11.929Z"
+    },
+    {
+        "demographics": {
+            "age": 99,
+            "gender": "female"
+        },
+        "_id": "6752127b277af6c70a7304d4",
+        "patient_id": "af45efdf-f166-46ab-b463-e220b8823e8c",
+        "renal_function": 37.05,
+        "conditions": [
+            {
+                "condition_name": "History of Gastric or Duodenal Ulcers",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7304d5"
+            },
+            {
+                "condition_name": "Dementia or Cognitive Impairment",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7304d6"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Oxybutynin",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7304d7"
+            },
+            {
+                "medication_name": "Doxepin (>6 mg / day)",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7304d8"
+            },
+            {
+                "medication_name": "Atorvastatin",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7304d9"
+            },
+            {
+                "medication_name": "Chlorpheniramine",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7304da"
+            },
+            {
+                "medication_name": "Clidinium-chlordiazepoxide",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7304db"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Fever",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7304dc"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.929Z",
+        "updatedAt": "2024-12-05T20:52:11.929Z"
+    },
+    {
+        "demographics": {
+            "age": 90,
+            "gender": "female"
+        },
+        "_id": "6752127b277af6c70a7304dd",
+        "patient_id": "b3e20617-313d-445b-a16f-ecb7f701fa1a",
+        "renal_function": 26.87,
+        "conditions": [
+            {
+                "condition_name": "History of Gastric or Duodenal Ulcers",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7304de"
+            },
+            {
+                "condition_name": "Dementia or Cognitive Impairment",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7304df"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Brompheniramine",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7304e0"
+            },
+            {
+                "medication_name": "Other PPIs",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7304e1"
+            },
+            {
+                "medication_name": "Gabapentin",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7304e2"
+            },
+            {
+                "medication_name": "Diltiazem",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7304e3"
+            },
+            {
+                "medication_name": "Carisoprodol",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7304e4"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Fever",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7304e5"
+            },
+            {
+                "name": "Fatigue",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7304e6"
+            },
+            {
+                "name": "Confusion",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7304e7"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.929Z",
+        "updatedAt": "2024-12-05T20:52:11.929Z"
+    },
+    {
+        "demographics": {
+            "age": 89,
+            "gender": "male"
+        },
+        "_id": "6752127b277af6c70a7304e8",
+        "patient_id": "42d9a2b3-0011-4f38-b78e-9d54d561cbc0",
+        "renal_function": 60.33,
+        "conditions": [
+            {
+                "condition_name": "Delirium",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7304e9"
+            },
+            {
+                "condition_name": "Syncope",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7304ea"
+            },
+            {
+                "condition_name": "History of Falls or Fractures",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7304eb"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Megestrol",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7304ec"
+            },
+            {
+                "medication_name": "Thioridazine",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7304ed"
+            },
+            {
+                "medication_name": "Haloperidol",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7304ee"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Headache",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7304ef"
+            },
+            {
+                "name": "Shortness of breath",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7304f0"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.929Z",
+        "updatedAt": "2024-12-05T20:52:11.929Z"
+    },
+    {
+        "demographics": {
+            "age": 98,
+            "gender": "male"
+        },
+        "_id": "6752127b277af6c70a7304f1",
+        "patient_id": "80dad992-1f27-4d00-959a-cfb99395faf1",
+        "renal_function": 20.94,
+        "conditions": [
+            {
+                "condition_name": "Chronic Kidney Disease Stage IV or higher",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7304f2"
+            },
+            {
+                "condition_name": "Urinary Incontinence (all types) in women",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7304f3"
+            },
+            {
+                "condition_name": "Diabetes with osteoporosis",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7304f4"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Dabigatran",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7304f5"
+            },
+            {
+                "medication_name": "Secobarbital",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7304f6"
+            },
+            {
+                "medication_name": "Mineral oil, given orally",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7304f7"
+            },
+            {
+                "medication_name": "Canigliflozin",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7304f8"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Chest pain",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7304f9"
+            },
+            {
+                "name": "Cough",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7304fa"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.929Z",
+        "updatedAt": "2024-12-05T20:52:11.929Z"
+    },
+    {
+        "demographics": {
+            "age": 90,
+            "gender": "female"
+        },
+        "_id": "6752127b277af6c70a7304fb",
+        "patient_id": "fc1b638b-8823-49be-bd0f-97c562fb7041",
+        "renal_function": 40.16,
+        "conditions": [
+            {
+                "condition_name": "Urinary Incontinence (all types) in women",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7304fc"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Meclofenamate",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7304fd"
+            },
+            {
+                "medication_name": "Quetiapine",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7304fe"
+            },
+            {
+                "medication_name": "Rivaroxaban",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7304ff"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Shortness of breath",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730500"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.929Z",
+        "updatedAt": "2024-12-05T20:52:11.929Z"
+    },
+    {
+        "demographics": {
+            "age": 79,
+            "gender": "female"
+        },
+        "_id": "6752127b277af6c70a730501",
+        "patient_id": "616ae09a-7f18-4d58-a344-f9fc2708f428",
+        "renal_function": 58.27,
+        "conditions": [
+            {
+                "condition_name": "Chronic Kidney Disease Stage IV or higher",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730502"
+            },
+            {
+                "condition_name": "Lower Urinary Tract Symptoms, Benign Prostatic Hyperplasia (BPH)",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730503"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Butalbital",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730504"
+            },
+            {
+                "medication_name": "Carbamazepine",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730505"
+            },
+            {
+                "medication_name": "Baclofen",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730506"
+            },
+            {
+                "medication_name": "Gabapentin",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730507"
+            },
+            {
+                "medication_name": "Diuretics",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730508"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Headache",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730509"
+            },
+            {
+                "name": "Dizziness",
+                "severity": 1,
+                "_id": "6752127b277af6c70a73050a"
+            },
+            {
+                "name": "Confusion",
+                "severity": 2,
+                "_id": "6752127b277af6c70a73050b"
+            },
+            {
+                "name": "Shortness of breath",
+                "severity": 2,
+                "_id": "6752127b277af6c70a73050c"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.929Z",
+        "updatedAt": "2024-12-05T20:52:11.929Z"
+    },
+    {
+        "demographics": {
+            "age": 72,
+            "gender": "female"
+        },
+        "_id": "6752127b277af6c70a73050d",
+        "patient_id": "0af6abc8-ac7f-4647-8307-f321c9d8a701",
+        "renal_function": 48.61,
+        "conditions": [
+            {
+                "condition_name": "Urinary Incontinence (all types) in women",
+                "severity": 2,
+                "_id": "6752127b277af6c70a73050e"
+            },
+            {
+                "condition_name": "Chronic constipation",
+                "severity": 2,
+                "_id": "6752127b277af6c70a73050f"
+            },
+            {
+                "condition_name": "Heart Failure",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730510"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Mineral oil, given orally",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730511"
+            },
+            {
+                "medication_name": "Terazosin",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730512"
+            },
+            {
+                "medication_name": "Brexpiprazole",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730513"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Vomiting",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730514"
+            },
+            {
+                "name": "Headache",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730515"
+            },
+            {
+                "name": "Cough",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730516"
+            },
+            {
+                "name": "Shortness of breath",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730517"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.929Z",
+        "updatedAt": "2024-12-05T20:52:11.929Z"
+    },
+    {
+        "demographics": {
+            "age": 71,
+            "gender": "female"
+        },
+        "_id": "6752127b277af6c70a730518",
+        "patient_id": "c479f5d2-e375-456d-87ab-6a4cfe13d6c9",
+        "renal_function": 58.57,
+        "conditions": [
+            {
+                "condition_name": "Chronic Kidney Disease Stage IV or higher",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730519"
+            },
+            {
+                "condition_name": "Chronic constipation",
+                "severity": 1,
+                "_id": "6752127b277af6c70a73051a"
+            },
+            {
+                "condition_name": "Urinary Incontinence (all types) in women",
+                "severity": 1,
+                "_id": "6752127b277af6c70a73051b"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Promethazine",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a73051c"
+            },
+            {
+                "medication_name": "Guanabenz",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a73051d"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Headache",
+                "severity": 2,
+                "_id": "6752127b277af6c70a73051e"
+            },
+            {
+                "name": "Memory loss",
+                "severity": 2,
+                "_id": "6752127b277af6c70a73051f"
+            },
+            {
+                "name": "Confusion",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730520"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.929Z",
+        "updatedAt": "2024-12-05T20:52:11.929Z"
+    },
+    {
+        "demographics": {
+            "age": 74,
+            "gender": "male"
+        },
+        "_id": "6752127b277af6c70a730521",
+        "patient_id": "881339c4-03de-4f4f-bbba-2a163077715c",
+        "renal_function": 88.03,
+        "conditions": [
+            {
+                "condition_name": "Heart Failure",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730522"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Triamterene",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730523"
+            },
+            {
+                "medication_name": "Pentobarbital",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730524"
+            },
+            {
+                "medication_name": "Meclizine",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730525"
+            },
+            {
+                "medication_name": "Tolterodine",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730526"
+            },
+            {
+                "medication_name": "Dexbrompheniramine",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730527"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Vomiting",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730528"
+            },
+            {
+                "name": "Confusion",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730529"
+            },
+            {
+                "name": "Headache",
+                "severity": 2,
+                "_id": "6752127b277af6c70a73052a"
+            },
+            {
+                "name": "Swelling",
+                "severity": 1,
+                "_id": "6752127b277af6c70a73052b"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.929Z",
+        "updatedAt": "2024-12-05T20:52:11.929Z"
+    },
+    {
+        "demographics": {
+            "age": 93,
+            "gender": "female"
+        },
+        "_id": "6752127b277af6c70a73052c",
+        "patient_id": "4b3a29a3-5b28-4eef-928e-4fb0059295a7",
+        "renal_function": 24.12,
+        "conditions": [
+            {
+                "condition_name": "Delirium",
+                "severity": 2,
+                "_id": "6752127b277af6c70a73052d"
+            },
+            {
+                "condition_name": "History of Gastric or Duodenal Ulcers",
+                "severity": 0,
+                "_id": "6752127b277af6c70a73052e"
+            },
+            {
+                "condition_name": "Lower Urinary Tract Symptoms, Benign Prostatic Hyperplasia (BPH)",
+                "severity": 0,
+                "_id": "6752127b277af6c70a73052f"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Duloxetine",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730530"
+            },
+            {
+                "medication_name": "Ertugliflozin",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730531"
+            },
+            {
+                "medication_name": "Temazepam",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730532"
+            },
+            {
+                "medication_name": "Desmopressin",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730533"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Chest pain",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730534"
+            },
+            {
+                "name": "Fatigue",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730535"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.929Z",
+        "updatedAt": "2024-12-05T20:52:11.929Z"
+    },
+    {
+        "demographics": {
+            "age": 87,
+            "gender": "female"
+        },
+        "_id": "6752127b277af6c70a730536",
+        "patient_id": "b738e4fc-93a8-455d-b105-3c954b42934d",
+        "renal_function": 15.36,
+        "conditions": [
+            {
+                "condition_name": "Chronic Kidney Disease Stage IV or higher",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730537"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Imipramine",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730538"
+            },
+            {
+                "medication_name": "Amobarbital",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730539"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Swelling",
+                "severity": 1,
+                "_id": "6752127b277af6c70a73053a"
+            },
+            {
+                "name": "Vomiting",
+                "severity": 1,
+                "_id": "6752127b277af6c70a73053b"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.929Z",
+        "updatedAt": "2024-12-05T20:52:11.929Z"
+    },
+    {
+        "demographics": {
+            "age": 71,
+            "gender": "female"
+        },
+        "_id": "6752127b277af6c70a73053c",
+        "patient_id": "a62a39be-da16-4f51-b600-60fb2cd34434",
+        "renal_function": 39.67,
+        "conditions": [
+            {
+                "condition_name": "Parkinson Disease",
+                "severity": 2,
+                "_id": "6752127b277af6c70a73053d"
+            },
+            {
+                "condition_name": "Syncope",
+                "severity": 0,
+                "_id": "6752127b277af6c70a73053e"
+            },
+            {
+                "condition_name": "Urinary Incontinence (all types) in women",
+                "severity": 2,
+                "_id": "6752127b277af6c70a73053f"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Homatropine (excludes ophthalmic)",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730540"
+            },
+            {
+                "medication_name": "Doxazosin",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730541"
+            },
+            {
+                "medication_name": "Trimipramine",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730542"
+            },
+            {
+                "medication_name": "Carbamazepine",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730543"
+            },
+            {
+                "medication_name": "Growth hormone",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730544"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Chest pain",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730545"
+            },
+            {
+                "name": "Headache",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730546"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.929Z",
+        "updatedAt": "2024-12-05T20:52:11.929Z"
+    },
+    {
+        "demographics": {
+            "age": 74,
+            "gender": "male"
+        },
+        "_id": "6752127b277af6c70a730547",
+        "patient_id": "2b407ab2-86d3-4b4a-9b0d-55b06a62a14c",
+        "renal_function": 63.32,
+        "conditions": [
+            {
+                "condition_name": "Diabetes with osteoporosis",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730548"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Thioridazine",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730549"
+            },
+            {
+                "medication_name": "Guanfacine",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a73054a"
+            },
+            {
+                "medication_name": "Amiodarone",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a73054b"
+            },
+            {
+                "medication_name": "Omeprazole",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a73054c"
+            },
+            {
+                "medication_name": "Androgens",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a73054d"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Chest pain",
+                "severity": 2,
+                "_id": "6752127b277af6c70a73054e"
+            },
+            {
+                "name": "Shortness of breath",
+                "severity": 0,
+                "_id": "6752127b277af6c70a73054f"
+            },
+            {
+                "name": "Headache",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730550"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.929Z",
+        "updatedAt": "2024-12-05T20:52:11.929Z"
+    },
+    {
+        "demographics": {
+            "age": 82,
+            "gender": "female"
+        },
+        "_id": "6752127b277af6c70a730551",
+        "patient_id": "93bf535c-19b9-4acd-a461-8b6245ae266a",
+        "renal_function": 19.2,
+        "conditions": [
+            {
+                "condition_name": "Chronic constipation",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730552"
+            },
+            {
+                "condition_name": "History of Falls or Fractures",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730553"
+            },
+            {
+                "condition_name": "History of Gastric or Duodenal Ulcers",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730554"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Paroxetine",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730555"
+            },
+            {
+                "medication_name": "Guanfacine",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730556"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Swelling",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730557"
+            },
+            {
+                "name": "Confusion",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730558"
+            },
+            {
+                "name": "Fatigue",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730559"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.929Z",
+        "updatedAt": "2024-12-05T20:52:11.929Z"
+    },
+    {
+        "demographics": {
+            "age": 75,
+            "gender": "female"
+        },
+        "_id": "6752127b277af6c70a73055a",
+        "patient_id": "b50360e4-de52-43a0-8448-f2a65d22b82a",
+        "renal_function": 20.34,
+        "conditions": [
+            {
+                "condition_name": "Syncope",
+                "severity": 1,
+                "_id": "6752127b277af6c70a73055b"
+            },
+            {
+                "condition_name": "Chronic constipation",
+                "severity": 1,
+                "_id": "6752127b277af6c70a73055c"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Clomipramine",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a73055d"
+            },
+            {
+                "medication_name": "Venlafaxine",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a73055e"
+            },
+            {
+                "medication_name": "Ketoprofen",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a73055f"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Nausea",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730560"
+            },
+            {
+                "name": "Cough",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730561"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.929Z",
+        "updatedAt": "2024-12-05T20:52:11.929Z"
+    },
+    {
+        "demographics": {
+            "age": 74,
+            "gender": "female"
+        },
+        "_id": "6752127b277af6c70a730562",
+        "patient_id": "be040bfc-0e87-4b38-be59-ed0827ad3bf2",
+        "renal_function": 85.55,
+        "conditions": [
+            {
+                "condition_name": "History of Falls or Fractures",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730563"
+            },
+            {
+                "condition_name": "History of Gastric or Duodenal Ulcers",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730564"
+            },
+            {
+                "condition_name": "Heart Failure",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730565"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Loxapine",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730566"
+            },
+            {
+                "medication_name": "Oxcarbazepine",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730567"
+            },
+            {
+                "medication_name": "Alprazolam",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730568"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Chest pain",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730569"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.929Z",
+        "updatedAt": "2024-12-05T20:52:11.929Z"
+    },
+    {
+        "demographics": {
+            "age": 72,
+            "gender": "male"
+        },
+        "_id": "6752127b277af6c70a73056a",
+        "patient_id": "14ea96ca-8843-4121-bf8a-62c394c9e4aa",
+        "renal_function": 25.78,
+        "conditions": [
+            {
+                "condition_name": "Parkinson Disease",
+                "severity": 1,
+                "_id": "6752127b277af6c70a73056b"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Trimipramine",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a73056c"
+            },
+            {
+                "medication_name": "Doxazosin",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a73056d"
+            },
+            {
+                "medication_name": "Piroxicam",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a73056e"
+            },
+            {
+                "medication_name": "Growth hormone",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a73056f"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Confusion",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730570"
+            },
+            {
+                "name": "Fever",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730571"
+            },
+            {
+                "name": "Vomiting",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730572"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.929Z",
+        "updatedAt": "2024-12-05T20:52:11.929Z"
+    },
+    {
+        "demographics": {
+            "age": 85,
+            "gender": "male"
+        },
+        "_id": "6752127b277af6c70a730573",
+        "patient_id": "2179629f-056d-4874-9953-40425a15103b",
+        "renal_function": 84.43,
+        "conditions": [
+            {
+                "condition_name": "Delirium",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730574"
+            },
+            {
+                "condition_name": "Syncope",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730575"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Guanabenz",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730576"
+            },
+            {
+                "medication_name": "Edoxaban",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730577"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Vomiting",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730578"
+            },
+            {
+                "name": "Cough",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730579"
+            },
+            {
+                "name": "Chest pain",
+                "severity": 1,
+                "_id": "6752127b277af6c70a73057a"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.929Z",
+        "updatedAt": "2024-12-05T20:52:11.929Z"
+    },
+    {
+        "demographics": {
+            "age": 97,
+            "gender": "female"
+        },
+        "_id": "6752127b277af6c70a73057b",
+        "patient_id": "6bbc33dc-93c5-401c-9179-78c4d3312439",
+        "renal_function": 47.28,
+        "conditions": [
+            {
+                "condition_name": "Chronic Kidney Disease Stage IV or higher",
+                "severity": 1,
+                "_id": "6752127b277af6c70a73057c"
+            },
+            {
+                "condition_name": "Diabetes with osteoporosis",
+                "severity": 2,
+                "_id": "6752127b277af6c70a73057d"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Empagliflozin",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a73057e"
+            },
+            {
+                "medication_name": "Trifluoperazine",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a73057f"
+            },
+            {
+                "medication_name": "Asenapine",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730580"
+            },
+            {
+                "medication_name": "Meclofenamate",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730581"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Fever",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730582"
+            },
+            {
+                "name": "Nausea",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730583"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.929Z",
+        "updatedAt": "2024-12-05T20:52:11.929Z"
+    },
+    {
+        "demographics": {
+            "age": 76,
+            "gender": "female"
+        },
+        "_id": "6752127b277af6c70a730584",
+        "patient_id": "402a02aa-b706-4bad-84c4-8449e5e95f02",
+        "renal_function": 77.81,
+        "conditions": [
+            {
+                "condition_name": "History of Gastric or Duodenal Ulcers",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730585"
+            },
+            {
+                "condition_name": "Chronic constipation",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730586"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Carbamazepine",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730587"
+            },
+            {
+                "medication_name": "Ziprasidone",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730588"
+            },
+            {
+                "medication_name": "Triazolam",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730589"
+            },
+            {
+                "medication_name": "Glimepiride",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a73058a"
+            },
+            {
+                "medication_name": "Glyburide (also known as glibenclamide)",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a73058b"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Nausea",
+                "severity": 0,
+                "_id": "6752127b277af6c70a73058c"
+            },
+            {
+                "name": "Headache",
+                "severity": 2,
+                "_id": "6752127b277af6c70a73058d"
+            },
+            {
+                "name": "Chest pain",
+                "severity": 1,
+                "_id": "6752127b277af6c70a73058e"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.929Z",
+        "updatedAt": "2024-12-05T20:52:11.929Z"
+    },
+    {
+        "demographics": {
+            "age": 93,
+            "gender": "male"
+        },
+        "_id": "6752127b277af6c70a73058f",
+        "patient_id": "90650bd7-3de5-4540-a4cb-a8d39a2be7cb",
+        "renal_function": 72.12,
+        "conditions": [
+            {
+                "condition_name": "Dementia or Cognitive Impairment",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730590"
+            },
+            {
+                "condition_name": "Delirium",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730591"
+            },
+            {
+                "condition_name": "Urinary Incontinence (all types) in women",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730592"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Zolpidem",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730593"
+            },
+            {
+                "medication_name": "Levomilnacipran",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730594"
+            },
+            {
+                "medication_name": "Methyldopa",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730595"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Swelling",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730596"
+            },
+            {
+                "name": "Vomiting",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730597"
+            },
+            {
+                "name": "Chest pain",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730598"
+            },
+            {
+                "name": "Cough",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730599"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.929Z",
+        "updatedAt": "2024-12-05T20:52:11.929Z"
+    },
+    {
+        "demographics": {
+            "age": 85,
+            "gender": "male"
+        },
+        "_id": "6752127b277af6c70a73059a",
+        "patient_id": "68c6ad60-b4f1-4342-a350-ff5067ec64c4",
+        "renal_function": 37.68,
+        "conditions": [
+            {
+                "condition_name": "Diabetes with osteoporosis",
+                "severity": 1,
+                "_id": "6752127b277af6c70a73059b"
+            },
+            {
+                "condition_name": "Lower Urinary Tract Symptoms, Benign Prostatic Hyperplasia (BPH)",
+                "severity": 2,
+                "_id": "6752127b277af6c70a73059c"
+            },
+            {
+                "condition_name": "Syncope",
+                "severity": 2,
+                "_id": "6752127b277af6c70a73059d"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Pantoprazole",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a73059e"
+            },
+            {
+                "medication_name": "Nabumetone",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a73059f"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Shortness of breath",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7305a0"
+            },
+            {
+                "name": "Vomiting",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7305a1"
+            },
+            {
+                "name": "Fever",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7305a2"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.929Z",
+        "updatedAt": "2024-12-05T20:52:11.929Z"
+    },
+    {
+        "demographics": {
+            "age": 85,
+            "gender": "female"
+        },
+        "_id": "6752127b277af6c70a7305a3",
+        "patient_id": "e275af52-d696-4a58-a789-a52c104e2980",
+        "renal_function": 64.74,
+        "conditions": [
+            {
+                "condition_name": "Lower Urinary Tract Symptoms, Benign Prostatic Hyperplasia (BPH)",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7305a4"
+            },
+            {
+                "condition_name": "Syncope",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7305a5"
+            },
+            {
+                "condition_name": "Diabetes with osteoporosis",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7305a6"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Methyltestosterone",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7305a7"
+            },
+            {
+                "medication_name": "Amitriptyline",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7305a8"
+            },
+            {
+                "medication_name": "Solifenacin",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7305a9"
+            },
+            {
+                "medication_name": "Paroxetine",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7305aa"
+            },
+            {
+                "medication_name": "Orphenadrine",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7305ab"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Nausea",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7305ac"
+            },
+            {
+                "name": "Fatigue",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7305ad"
+            },
+            {
+                "name": "Dizziness",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7305ae"
+            },
+            {
+                "name": "Chest pain",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7305af"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.929Z",
+        "updatedAt": "2024-12-05T20:52:11.929Z"
+    },
+    {
+        "demographics": {
+            "age": 96,
+            "gender": "male"
+        },
+        "_id": "6752127b277af6c70a7305b0",
+        "patient_id": "0be4fca4-0d3a-4259-981d-19228d220cf6",
+        "renal_function": 83.41,
+        "conditions": [
+            {
+                "condition_name": "Chronic constipation",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7305b1"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Mephobarbital",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7305b2"
+            },
+            {
+                "medication_name": "Lurasidone",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7305b3"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Fatigue",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7305b4"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.930Z",
+        "updatedAt": "2024-12-05T20:52:11.930Z"
+    },
+    {
+        "demographics": {
+            "age": 72,
+            "gender": "male"
+        },
+        "_id": "6752127b277af6c70a7305b5",
+        "patient_id": "284c069c-3036-4e8c-a59f-2755a4e8986d",
+        "renal_function": 51.17,
+        "conditions": [
+            {
+                "condition_name": "Urinary Incontinence (all types) in women",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7305b6"
+            },
+            {
+                "condition_name": "Chronic constipation",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7305b7"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Pantoprazole",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7305b8"
+            },
+            {
+                "medication_name": "Glimepiride",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7305b9"
+            },
+            {
+                "medication_name": "Paliperidone",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7305ba"
+            },
+            {
+                "medication_name": "Estazolam",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7305bb"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Fever",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7305bc"
+            },
+            {
+                "name": "Confusion",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7305bd"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.930Z",
+        "updatedAt": "2024-12-05T20:52:11.930Z"
+    },
+    {
+        "demographics": {
+            "age": 84,
+            "gender": "female"
+        },
+        "_id": "6752127b277af6c70a7305be",
+        "patient_id": "13433c5f-af37-4718-95d6-4c72af5133b4",
+        "renal_function": 77.72,
+        "conditions": [
+            {
+                "condition_name": "History of Falls or Fractures",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7305bf"
+            },
+            {
+                "condition_name": "Diabetes with osteoporosis",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7305c0"
+            },
+            {
+                "condition_name": "History of Gastric or Duodenal Ulcers",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7305c1"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Testosterone",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7305c2"
+            },
+            {
+                "medication_name": "Terazosin",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7305c3"
+            },
+            {
+                "medication_name": "Belladonna alkaloids",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7305c4"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Headache",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7305c5"
+            },
+            {
+                "name": "Swelling",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7305c6"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.930Z",
+        "updatedAt": "2024-12-05T20:52:11.930Z"
+    },
+    {
+        "demographics": {
+            "age": 69,
+            "gender": "female"
+        },
+        "_id": "6752127b277af6c70a7305c7",
+        "patient_id": "971ad399-d9f8-473a-a243-26adf355c0bc",
+        "renal_function": 46.05,
+        "conditions": [
+            {
+                "condition_name": "Lower Urinary Tract Symptoms, Benign Prostatic Hyperplasia (BPH)",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7305c8"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Ziprasidone",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7305c9"
+            },
+            {
+                "medication_name": "Testosterone",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7305ca"
+            },
+            {
+                "medication_name": "Oxybutynin",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7305cb"
+            },
+            {
+                "medication_name": "Propantheline",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7305cc"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Headache",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7305cd"
+            },
+            {
+                "name": "Swelling",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7305ce"
+            },
+            {
+                "name": "Nausea",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7305cf"
+            },
+            {
+                "name": "Confusion",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7305d0"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.930Z",
+        "updatedAt": "2024-12-05T20:52:11.930Z"
+    },
+    {
+        "demographics": {
+            "age": 66,
+            "gender": "male"
+        },
+        "_id": "6752127b277af6c70a7305d1",
+        "patient_id": "9b00a6aa-6c85-496d-afa0-6dff86f049e2",
+        "renal_function": 53.36,
+        "conditions": [
+            {
+                "condition_name": "Chronic Kidney Disease Stage IV or higher",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7305d2"
+            },
+            {
+                "condition_name": "Chronic constipation",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7305d3"
+            },
+            {
+                "condition_name": "Urinary Incontinence (all types) in women",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7305d4"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Mirtazapine",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7305d5"
+            },
+            {
+                "medication_name": "Trifluoperazine",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7305d6"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Headache",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7305d7"
+            },
+            {
+                "name": "Nausea",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7305d8"
+            },
+            {
+                "name": "Fever",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7305d9"
+            },
+            {
+                "name": "Vomiting",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7305da"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.930Z",
+        "updatedAt": "2024-12-05T20:52:11.930Z"
+    },
+    {
+        "demographics": {
+            "age": 99,
+            "gender": "female"
+        },
+        "_id": "6752127b277af6c70a7305db",
+        "patient_id": "09651ed9-39c8-4408-8657-f3289838230e",
+        "renal_function": 33.01,
+        "conditions": [
+            {
+                "condition_name": "History of Gastric or Duodenal Ulcers",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7305dc"
+            },
+            {
+                "condition_name": "Parkinson Disease",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7305dd"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Dapagliflozin",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7305de"
+            },
+            {
+                "medication_name": "Prazosin",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7305df"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Fatigue",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7305e0"
+            },
+            {
+                "name": "Headache",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7305e1"
+            },
+            {
+                "name": "Cough",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7305e2"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.930Z",
+        "updatedAt": "2024-12-05T20:52:11.930Z"
+    },
+    {
+        "demographics": {
+            "age": 93,
+            "gender": "female"
+        },
+        "_id": "6752127b277af6c70a7305e3",
+        "patient_id": "9fd03193-f259-45a8-9f98-8e256e97829c",
+        "renal_function": 78.4,
+        "conditions": [
+            {
+                "condition_name": "Heart Failure",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7305e4"
+            },
+            {
+                "condition_name": "Parkinson Disease",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7305e5"
+            },
+            {
+                "condition_name": "Urinary Incontinence (all types) in women",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7305e6"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Trospium",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7305e7"
+            },
+            {
+                "medication_name": "Thiothixene",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7305e8"
+            },
+            {
+                "medication_name": "Venlafaxine",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7305e9"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Shortness of breath",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7305ea"
+            },
+            {
+                "name": "Confusion",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7305eb"
+            },
+            {
+                "name": "Fatigue",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7305ec"
+            },
+            {
+                "name": "Fever",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7305ed"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.930Z",
+        "updatedAt": "2024-12-05T20:52:11.930Z"
+    },
+    {
+        "demographics": {
+            "age": 84,
+            "gender": "male"
+        },
+        "_id": "6752127b277af6c70a7305ee",
+        "patient_id": "875e232f-8956-420c-9ac7-3adbd1607185",
+        "renal_function": 77.9,
+        "conditions": [
+            {
+                "condition_name": "Parkinson Disease",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7305ef"
+            },
+            {
+                "condition_name": "History of Falls or Fractures",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7305f0"
+            },
+            {
+                "condition_name": "History of Gastric or Duodenal Ulcers",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7305f1"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Digoxin",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7305f2"
+            },
+            {
+                "medication_name": "Spironolactone",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a7305f3"
+            },
+            {
+                "medication_name": "Belladonna alkaloids",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7305f4"
+            },
+            {
+                "medication_name": "Prazosin",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7305f5"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Swelling",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7305f6"
+            },
+            {
+                "name": "Dizziness",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7305f7"
+            },
+            {
+                "name": "Confusion",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7305f8"
+            },
+            {
+                "name": "Headache",
+                "severity": 2,
+                "_id": "6752127b277af6c70a7305f9"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.930Z",
+        "updatedAt": "2024-12-05T20:52:11.930Z"
+    },
+    {
+        "demographics": {
+            "age": 78,
+            "gender": "male"
+        },
+        "_id": "6752127b277af6c70a7305fa",
+        "patient_id": "9e0e356c-2ea3-4bd6-a966-07157b6a63d4",
+        "renal_function": 55.9,
+        "conditions": [
+            {
+                "condition_name": "Parkinson Disease",
+                "severity": 0,
+                "_id": "6752127b277af6c70a7305fb"
+            },
+            {
+                "condition_name": "Chronic constipation",
+                "severity": 1,
+                "_id": "6752127b277af6c70a7305fc"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Paroxetine",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7305fd"
+            },
+            {
+                "medication_name": "Nortriptyline",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7305fe"
+            },
+            {
+                "medication_name": "Clidinium-chlordiazepoxide",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a7305ff"
+            },
+            {
+                "medication_name": "Venlafaxine",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730600"
+            },
+            {
+                "medication_name": "Diflunisal",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730601"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Fever",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730602"
+            },
+            {
+                "name": "Headache",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730603"
+            },
+            {
+                "name": "Cough",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730604"
+            },
+            {
+                "name": "Fatigue",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730605"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.930Z",
+        "updatedAt": "2024-12-05T20:52:11.930Z"
+    },
+    {
+        "demographics": {
+            "age": 86,
+            "gender": "male"
+        },
+        "_id": "6752127b277af6c70a730606",
+        "patient_id": "9318b1c3-1b0b-4dd9-9796-0b2728531f3b",
+        "renal_function": 89.7,
+        "conditions": [
+            {
+                "condition_name": "Diabetes with osteoporosis",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730607"
+            },
+            {
+                "condition_name": "Parkinson Disease",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730608"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Escitalopram",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730609"
+            },
+            {
+                "medication_name": "Flavoxate",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a73060a"
+            },
+            {
+                "medication_name": "Dexchlorpheniramine",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a73060b"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Swelling",
+                "severity": 2,
+                "_id": "6752127b277af6c70a73060c"
+            },
+            {
+                "name": "Nausea",
+                "severity": 2,
+                "_id": "6752127b277af6c70a73060d"
+            },
+            {
+                "name": "Vomiting",
+                "severity": 2,
+                "_id": "6752127b277af6c70a73060e"
+            },
+            {
+                "name": "Fatigue",
+                "severity": 1,
+                "_id": "6752127b277af6c70a73060f"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.930Z",
+        "updatedAt": "2024-12-05T20:52:11.930Z"
+    },
+    {
+        "demographics": {
+            "age": 65,
+            "gender": "male"
+        },
+        "_id": "6752127b277af6c70a730610",
+        "patient_id": "d116002d-093d-4b95-919e-437eee4b0eee",
+        "renal_function": 52.95,
+        "conditions": [
+            {
+                "condition_name": "History of Gastric or Duodenal Ulcers",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730611"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Pimavanserin",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730612"
+            },
+            {
+                "medication_name": "Mineral oil, given orally",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730613"
+            },
+            {
+                "medication_name": "Digoxin",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730614"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Vomiting",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730615"
+            },
+            {
+                "name": "Memory loss",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730616"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.930Z",
+        "updatedAt": "2024-12-05T20:52:11.930Z"
+    },
+    {
+        "demographics": {
+            "age": 78,
+            "gender": "female"
+        },
+        "_id": "6752127b277af6c70a730617",
+        "patient_id": "0f356644-f1bb-4af9-bfbe-d44cec552610",
+        "renal_function": 60.3,
+        "conditions": [
+            {
+                "condition_name": "History of Gastric or Duodenal Ulcers",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730618"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Butalbital",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730619"
+            },
+            {
+                "medication_name": "Ergoloid mesylates (dehydrogenated ergot alkaloids)",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a73061a"
+            },
+            {
+                "medication_name": "Dapagliflozin",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a73061b"
+            },
+            {
+                "medication_name": "Piroxicam",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a73061c"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Fever",
+                "severity": 1,
+                "_id": "6752127b277af6c70a73061d"
+            },
+            {
+                "name": "Headache",
+                "severity": 0,
+                "_id": "6752127b277af6c70a73061e"
+            },
+            {
+                "name": "Fatigue",
+                "severity": 2,
+                "_id": "6752127b277af6c70a73061f"
+            },
+            {
+                "name": "Nausea",
+                "severity": 0,
+                "_id": "6752127b277af6c70a730620"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.930Z",
+        "updatedAt": "2024-12-05T20:52:11.930Z"
+    },
+    {
+        "demographics": {
+            "age": 82,
+            "gender": "male"
+        },
+        "_id": "6752127b277af6c70a730621",
+        "patient_id": "90c3eae7-f8f4-4f30-97d8-f0301c3e420d",
+        "renal_function": 21.34,
+        "conditions": [
+            {
+                "condition_name": "Heart Failure",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730622"
+            },
+            {
+                "condition_name": "Diabetes with osteoporosis",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730623"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Androgens",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730624"
+            },
+            {
+                "medication_name": "Metaxalone",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730625"
+            },
+            {
+                "medication_name": "Chlorzoxazone",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730626"
+            },
+            {
+                "medication_name": "Desvenlafaxine",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730627"
+            },
+            {
+                "medication_name": "Trimethoprim-sulfamethoxazole",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730628"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Memory loss",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730629"
+            },
+            {
+                "name": "Confusion",
+                "severity": 0,
+                "_id": "6752127b277af6c70a73062a"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.930Z",
+        "updatedAt": "2024-12-05T20:52:11.930Z"
+    },
+    {
+        "demographics": {
+            "age": 83,
+            "gender": "female"
+        },
+        "_id": "6752127b277af6c70a73062b",
+        "patient_id": "da9121c9-c67f-4f98-9358-9788f39640b0",
+        "renal_function": 68.58,
+        "conditions": [
+            {
+                "condition_name": "History of Gastric or Duodenal Ulcers",
+                "severity": 0,
+                "_id": "6752127b277af6c70a73062c"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Trospium",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a73062d"
+            },
+            {
+                "medication_name": "Trimipramine",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a73062e"
+            },
+            {
+                "medication_name": "Ziprasidone",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a73062f"
+            },
+            {
+                "medication_name": "Zolpidem",
+                "loweredDosage": true,
+                "_id": "6752127b277af6c70a730630"
+            },
+            {
+                "medication_name": "Dofetilide",
+                "loweredDosage": false,
+                "_id": "6752127b277af6c70a730631"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Chest pain",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730632"
+            },
+            {
+                "name": "Vomiting",
+                "severity": 1,
+                "_id": "6752127b277af6c70a730633"
+            },
+            {
+                "name": "Fever",
+                "severity": 2,
+                "_id": "6752127b277af6c70a730634"
+            }
+        ],
+        "__v": 0,
+        "createdAt": "2024-12-05T20:52:11.930Z",
+        "updatedAt": "2024-12-05T20:52:11.930Z"
+    },
+    {
+        "demographics": {
+            "age": 72,
+            "gender": "female"
+        },
+        "_id": "67580a6021d4b71c87a35157",
+        "patient_id": "673f252a68afd9997f13e77b",
+        "renal_function": 71,
+        "conditions": [
+            {
+                "condition_name": "Heart Failure",
+                "severity": 1,
+                "_id": "67580a6021d4b71c87a35158"
+            },
+            {
+                "condition_name": "Syncope",
+                "severity": 1,
+                "_id": "67580a6021d4b71c87a35159"
+            },
+            {
+                "condition_name": "Chronic Kidney Disease Stage IV or higher",
+                "severity": 1,
+                "_id": "67580a6021d4b71c87a3515a"
+            },
+            {
+                "condition_name": "Lower Urinary Tract Symptoms, Benign Prostatic Hyperplasia (BPH)",
+                "severity": 1,
+                "_id": "67580a6021d4b71c87a3515b"
+            },
+            {
+                "condition_name": "Diabetes with osteoporosis",
+                "severity": 1,
+                "_id": "67580a6021d4b71c87a3515c"
+            }
+        ],
+        "current_medications": [
+            {
+                "medication_name": "Ibuprofen",
+                "loweredDosage": false,
+                "_id": "67580a6021d4b71c87a3515d"
+            },
+            {
+                "medication_name": "Warfarin",
+                "loweredDosage": false,
+                "_id": "67580a6021d4b71c87a3515e"
+            },
+            {
+                "medication_name": "Amlodipine",
+                "loweredDosage": false,
+                "_id": "67580a6021d4b71c87a3515f"
+            },
+            {
+                "medication_name": "Metformin",
+                "loweredDosage": false,
+                "_id": "67580a6021d4b71c87a35160"
+            },
+            {
+                "medication_name": "Atorvastatin",
+                "loweredDosage": false,
+                "_id": "67580a6021d4b71c87a35161"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Headache",
+                "severity": 1,
+                "_id": "67580a6021d4b71c87a35162"
+            },
+            {
+                "name": "nausea",
+                "severity": 1,
+                "_id": "67580a6021d4b71c87a35163"
+            }
+        ],
+        "createdAt": "2024-12-10T09:31:12.985Z",
+        "updatedAt": "2024-12-10T09:31:12.985Z",
+        "__v": 0
+    }
+]
